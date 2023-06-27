@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+
+  background-image: url("../public/weather-bg.jpg");
+
+  background-size: cover;
+
+  background-repeat: no-repeat;
+}
